@@ -1,0 +1,6 @@
+wheel
+Flask
+flask_sqlalchemy
+flask_script
+psycopg2-binary
+flask
